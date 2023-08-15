@@ -14,7 +14,9 @@
 
 <a name="Introduction-"></a>
 ## 1. Introduction 🌟
-The objective of this repository is to uncover the determining factors affecting health insurance charges using a machine learning approach. From understanding patient demographics to medical histories, this analysis deciphers the complex interplay of variables that impact costs.
+This repository serves as a comprehensive guide to predicting health insurance charges through a machine learning lens. Drawing inspiration from demographic and health-related factors, the project seeks not just to predict but also to unravel the intricate weave of variables that govern healthcare costs. 
+
+Our primary aim, grounded in Supervised Learning, revolves around Regression, using models such as Random Forest Regressor and XGBRegressor. We harness metrics like RMSE, MAE, and R-squared value to assess model accuracy. Yet, our vision goes beyond mere numbers; we aspire to shed light on the nuanced relationships influencing these charges. Through this analysis, we hope to offer meaningful insights, beneficial for both insurance companies and individuals, encapsulating our mission: **"To use personal information to accurately and insightfully predict healthcare costs."**
 
 <a name="Dataset-Overview-"></a>
 ## 2. Dataset Overview 📁
