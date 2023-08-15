@@ -34,7 +34,7 @@ Strategic feature engineering techniques were employed to harness the data's ful
 
 <a name="Model-Training-and-Selection-"></a>
 ## 6. Model Training and Selection 🤖
-Multiple models, including Linear Regression, Random Forest, Gradient Boosting, and Support Vector Machines, were trained. Their performance metrics were compared to select the best fit for the prediction task.
+Multiple models, including Linear Regression, Random Forest, XGBoost, CatBoostRegressor and Support Vector Machines, were trained. Their performance metrics were compared to select the best fit for the prediction task.
 
 <a name="Hyperparameter-Optimization-"></a>
 ## 7. Hyperparameter Optimization 🔧
