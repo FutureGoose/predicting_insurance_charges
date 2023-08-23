@@ -56,7 +56,7 @@ The project illuminated various hidden determinants of health insurance charges.
 
 ---
 ## Getting Started 🏁
-For an in-depth dive into the code, methodology, and results, kindly refer to the included Jupyter Notebook (`medical_cost_reg.ipynb`). 
+For an in-depth dive into the code, methodology, and results, kindly refer to the included Jupyter Notebook (`medical_cost_reg_ver2.ipynb`). 
 
 ### Prerequisites 📋
 For successful execution, you'll need:
