@@ -1,5 +1,7 @@
 # Predicting Health Insurance Charges: Unraveling Cost Determinants through Machine Learning 🌡️💸
 
+**Note: For the best viewing experience of the Jupyter Notebook, please use this [nbviewer link](https://nbviewer.org/github/FutureGoose/predicting_insurance_charges/blob/main/medical_cost_reg_ver2.ipynb).**
+
 ## Table of Contents 📘
 1. [Introduction](#Introduction-)
 2. [Dataset Overview](#Dataset-Overview-)
@@ -56,7 +58,10 @@ The project illuminated various hidden determinants of health insurance charges.
 
 ---
 ## Getting Started 🏁
-For an in-depth dive into the code, methodology, and results, kindly refer to the included Jupyter Notebook (`medical_cost_reg_ver2.ipynb`). 
+For an optimal viewing experience of the Jupyter Notebook, use the following nbviewer link:
+[View Notebook on nbviewer](https://nbviewer.org/github/FutureGoose/predicting_insurance_charges/blob/main/medical_cost_reg_ver2.ipynb)
+
+This link provides a superior rendering compared to the default GitHub file viewer.
 
 ### Prerequisites 📋
 For successful execution, you'll need:
